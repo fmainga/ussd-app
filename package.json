@@ -1,0 +1,28 @@
+{
+  "name": "ussd-menu-app",
+  "version": "1.0.0",
+  "description": "Ussd Menu app in Node.Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmainga/ussd-menu-app.git"
+  },
+  "keywords": [
+    "Node.Js",
+    "Express",
+    "Ussd"
+  ],
+  "author": "Fred Mainga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmainga/ussd-menu-app/issues"
+  },
+  "homepage": "https://github.com/fmainga/ussd-menu-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ussd-menu-builder": "^1.2.0"
+  }
+}
